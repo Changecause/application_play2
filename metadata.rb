@@ -1,6 +1,6 @@
 name             'application_play2'
-maintainer       'njin'
-maintainer_email 'bathily@njin.fr'
+maintainer       'mike'
+maintainer_email 'mike@changecause.com'
 license          'All rights reserved'
 description      'Installs/Configures application_play2'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
